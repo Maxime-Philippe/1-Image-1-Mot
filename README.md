@@ -1,11 +1,11 @@
 Bonjour, bienvenue dans les explications de lancement de "1 image 1 mot" :
 
 
-1- Vérifier que sur votre ordinateur il y a bien les librairies  de SDL2, SDL_Image, SDL_TTF ainsi que la commande gcc d'installer :
-    a. Si c'est le cas passer au point suivant
-    b. si ce n'est pas le cas alors il vous faudra installer c'est trois librairies et la commance gcc pour pouvoir continuer, rentrez les commandes suivantes dans un terminal pour les installées :
-        - sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev
-        - sudo apt-get instal build-essential
+1- Vérifier que sur votre ordinateur il y a bien les librairies  de SDL2, SDL_Image, SDL_TTF ainsi que la commande gcc d'installer :  
+    a. Si c'est le cas passer au point suivant  
+    b. si ce n'est pas le cas alors il vous faudra installer c'est trois librairies et la commance gcc pour pouvoir continuer, rentrez les commandes suivantes dans un               terminal pour les installées :  
+    - sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev  
+    - sudo apt-get instal build-essential
 
 2- Si vous êtes arrivez ici c'est que vous êtes opérationnel pour pouvoir jouer à ce jeu alors placez vous simplement dans le dossier du Projet (double-clic gauche sur le dossier), puis si tout ce passe bien vous verrez apparaitre des dossiers, un Makefile et ce README
 
